@@ -24,7 +24,7 @@ Je souhaite m'inscrire à une formation.
 Merci de me communiquer les prochaines étapes pour confirmer mon inscription.`;
 
   window.open(
-    'https://wa.me/243971390573?text=' + encodeURIComponent(message),
+    'https://wa.me/243847839052?text=' + encodeURIComponent(message),
     '_blank'
   );
 });
